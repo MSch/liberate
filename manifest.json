@@ -1,0 +1,13 @@
+{
+  "name": "Liberate me",
+  "version": "0.1",
+  "description": "Proper privacy",
+  "background_page": "background.html",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "webNavigation",
+    "tabs",
+    "*://*/*"
+  ]
+}
